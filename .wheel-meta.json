@@ -1,0 +1,22 @@
+{
+  "wheel_id": 793,
+  "structure": "umbrella",
+  "slug": "adelaidetilingwaterproofing-151",
+  "project": "tiling-adelaide-6fc3d695889519ad08fcb0165a435b8626b5ba5a",
+  "parent_t1_ref": "adelaidetilingwaterproofing-008",
+  "node_role": "buffer",
+  "money_target": "adelaidetilingwaterproofing.com.au",
+  "primary_kw": "tiling adelaide",
+  "intended_url": "https://sitesau.github.io/adelaidetilingwaterproofing-151/",
+  "tier": "T2",
+  "writeback_nonce": "8857dc54aac1ef5a",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/tiling-adelaide/",
+      "anchor": "the tiling adelaide overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
